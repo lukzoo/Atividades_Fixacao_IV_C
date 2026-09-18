@@ -1,0 +1,11 @@
+# Atividades_Fixacao_IV_C
+Q1 - Algoritmo para calcular médias ( if, if else, ?: )
+Q2 - Menu de atendimento ( switch case )
+Q3 - Algoritmo de descontos em compras ( if, if else )
+Q4 - Classificação de usuários ( switch case )
+Q5 - Sistema de aprovação para crédito ( if, if else, ?: )
+Q6 - Sistema de transporte ( switch case, ?: )
+Q7 - Algoritmo de faixa etária ( if, if else, ?: )
+Q8 - Sistema de Pagamento ( switch case )
+Q9 - Algoritmo de Classificação de Temperatura ( if, if else, ?: )
+Q10 - Sistema Integrado de Atendimento ( switch case, ?: )
